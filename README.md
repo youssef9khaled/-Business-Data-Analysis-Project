@@ -135,6 +135,3 @@ The analysis addressed the following:
 6. **Leverage Customer Insights:**
    - Use preferred payment methods for targeted promotions 💳
 
----
-
-## 📁 Project Structure
